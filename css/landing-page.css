@@ -88,6 +88,16 @@ h6 {
     letter-spacing: 2px;
 }
 
+.team-section {
+    padding: 30px 0;
+    background-color: #3a3a3a;
+    color: #e7e7e7;
+}
+
+.team-section img {
+    height: 220px;
+}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;

@@ -1,0 +1,8 @@
+---
+layout: default
+img: vjaeckle.png
+category: Team
+title: Veronika Mittnacht | Assistant
+description: |
+---
+  I am the assistant of 'the boss'.
